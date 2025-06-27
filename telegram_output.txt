@@ -1,0 +1,33 @@
+🏉 AI RUGBY PREDICTIONS - WEEKEND MATCHES
+
+`Win/Draw & BTTS | Correct Score | Bookmaker Consensus`
+
+⚔️ Match 1: All Blacks vs Springboks
+✅ AI Prediction: Draw & BTTS: Yes
+🎯 Correct Score: 24-24
+📊 Confidence: 78%
+🔮 Hollywoodbets: Draw & BTTS (1.85)
+🔮 Betway: Draw & BTTS (1.80)
+💡 Key Factors: 
+  Player Form: AB Fly-Half 9.1/10, SA Lock 8.7/10
+  Injuries: SA: Hooker out
+  Ref: Wayne Barnes - 52% Home Win Rate
+  Weather: Dry, 18°C - Fast conditions
+  H2H: Last 5: 2-2-1
+  Coaching: Tactical stalemate expected
+
+⚔️ Match 2: England vs Ireland
+✅ AI Prediction: Ireland Win & BTTS: Yes
+🎯 Correct Score: 20-28
+📊 Confidence: 82%
+🔮 Hollywoodbets: Ireland Win & BTTS (2.10)
+🔮 Betway: Ireland Win & BTTS (2.05)
+💡 Key Factors: 
+  Player Form: ENG Fullback 7.9/10, IRE Fly-Half 9.3/10
+  Injuries: ENG: Two forwards out
+  Ref: Jaco Peyper - 61% Away Win Rate
+  Weather: Heavy rain - Favors forwards
+  H2H: IRE won last 4 encounters
+  Coaching: Ireland's attack vs England's defense
+
+...14 more matches...
